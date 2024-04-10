@@ -4,6 +4,7 @@ android {
     namespace "com.jaeger.statusbardemo"
     defaultConfig {
         applicationId "com.jaeger.statusbardemo"
+        //noinspection ExpiredTargetSdkVersion
         targetSdkVersion 27
         versionCode 8
         versionName "1.5.0"
